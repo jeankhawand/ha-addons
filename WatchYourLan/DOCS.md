@@ -65,12 +65,10 @@ SOFTWARE.
 [armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
 [armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
-[jeankhawand]: https://github.com/jeankhawand
 [contributors]: https://github.com/jeankhawand/addon-watchyourlan/graphs/contributors
 [github-actions-shield]: https://github.com/jeankhawand/addon-watchyourlan/workflows/CI/badge.svg
 [github-actions]: https://github.com/jeankhawand/addon-watchyourlan/actions
 [ha-addons]: https://github.com/jeankhawand/ha-addons
-[i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [issue]: https://github.com/jeankhawand/addon-watchyourlan/issues
 [license-shield]: https://img.shields.io/github/license/jeankhawand/addon-watchyourlan
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2024.svg
