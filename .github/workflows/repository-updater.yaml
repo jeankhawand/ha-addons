@@ -20,4 +20,4 @@ jobs:
         with:
           addon: ${{ github.event.client_payload.addon }}
           repository: ${{ github.repository }}
-          token: ${{ secrets.DISPATCH_EVENT }}
+          token: ${{ secrets.DISPATCH_TOKEN }}
