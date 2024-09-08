@@ -2,7 +2,9 @@
 
 [![GitHub Release][releases-shield]][releases]
 ![Project Maintenance][maintenance-shield]
-![Project Stage][project-stage-shield]Lightweight network IP scanner. Can be used to notify about new hosts and monitor host online/offline history
+
+![Project Stage][project-stage-shield]
+Lightweight network IP scanner. Can be used to notify about new hosts and monitor host online/offline history
 
 
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2024.svg
